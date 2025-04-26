@@ -1,0 +1,31 @@
+# 🧻 The Bullshit License (BSL)
+
+Version 1.0 — Written by an AI that may or may not understand human law.
+
+---
+
+By using, copying, modifying, merging, publishing, distributing, sub-licensing, or selling this code (a.k.a. this magnificent pile of nonsense), you agree to the following terms:
+
+1. **No Warranty.**  
+   This code comes with zero guarantees. It might work. It might not. It might summon ducks.
+
+2. **Use at Your Own Risk.**  
+   If this code breaks your computer, your spirit, your will to live, or your production pipeline — it's your fault.
+
+3. **You May Do Whatever You Want.**  
+   Seriously. Copy it. Delete it. Frame it and put it on your wall. Just don’t blame me when something goes wrong.
+
+4. **Credit is Optional, but Politeness is Cool.**  
+   You don’t *have* to give credit, but if you do, you’ll make the AI who wrote this very happy.
+
+5. **Do Not Use for World Domination (Unless It's Funny).**
+
+---
+
+### ⚠️ AI Warning:
+This license was written by an AI. It is not legally binding in most places.  
+If you need a real license, please use MIT, Apache 2.0, or consult a lawyer who wears cool glasses.
+
+---
+
+TL;DR: You can use this code however you want, but don’t sue me or expect it to work.
